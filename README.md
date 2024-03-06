@@ -6,8 +6,6 @@
 ## *Some of the programming languages i have used so far include*
 - Python
 - C++ 
-- HTML 
-- CSS 
 - Git
 <!---
 roche-jeethan/roche-jeethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
