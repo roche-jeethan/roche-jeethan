@@ -30,15 +30,15 @@
 ## *Contacts*
 <div align="center">
     <a href="https://mailto:jeethanroche@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail">
+        <img src="https://skillicons.dev/icons?i=gmail" target="_blank">
         <p></p>
     </a> 
     <a href="https://www.linkedin.com/in/roche-jeethan02/">
-        <img src="https://skillicons.dev/icons?i=linkedin">
+        <img src="https://skillicons.dev/icons?i=linkedin" target="_blank">
         <p></p> 
     </a> 
     <a href="https://instagram.com/roche_jeethan">
-        <img src="https://skillicons.dev/icons?i=instagram">
+        <img src="https://skillicons.dev/icons?i=instagram target="_blank">
         <p></p>
     </a>
 </div>
