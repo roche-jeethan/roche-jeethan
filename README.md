@@ -6,6 +6,12 @@
     
 <p align="justify">I'm a passionate Computer Science Engineering student with a keen interest in Data Science, currently studying at St. Joseph Engineering College, Mangalore. My journey in technology is fueled by my love for Mathematics, Statistical Concepts, and the endless possibilities that data-driven solutions can bring to the world.<br><br>Beyond academics, I'm actively involved in The Sceptix Club, our college's coding club, where I collaborate with like-minded peers to explore and create innovative projects. I believe in continuous learning and the power of technology to make a meaningful impact.<br><br>In addition to my technical pursuits, I have a creative side that's expressed through my small YouTube channel, which I started in 2020. While it's currently on pause, I have plans to reignite my content creation journey soon.</p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roche-jeethan&theme=highcontrast" alt="roche-jeethan statistics" /></p>
 
 ## *Programming & Other Languages*
