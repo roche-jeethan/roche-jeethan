@@ -11,14 +11,14 @@
 ## *Programming & Other Languages*
 <div align="center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,c,cpp,matlab,r">
+        <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,java,c,cpp,matlab,r">
     </a>
 </div>
 
 ## *Framworks (Small progress)*
 <div align="center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,flask,supabase,fastapi">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,supabase">
     </a>
 </div>
 
