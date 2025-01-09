@@ -45,16 +45,6 @@
     </a>
 </div>
 
-## *Summary*
-<div align="center">
-    
-  👀 I’m interested in Mathematical models and Computational models
-  
-  🌱 I’m currently learning B.E in Computer Science (Data Science) @SJEC
-  
-
-</div>
-
 
 <!---
 roche-jeethan/roche-jeethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
