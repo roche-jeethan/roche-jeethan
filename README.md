@@ -18,14 +18,14 @@
 ## *Framworks (Small progress)*
 <div align="center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,supabase">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,supabase">
     </a>
 </div>
 
 ## *Tools*
 <div align="center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,npm">
     </a>
 </div>
 
