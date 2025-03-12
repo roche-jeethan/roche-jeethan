@@ -40,6 +40,8 @@
     </a>
 </div>
 
+<p>Feel free to contact me anytime</p>
+
 
 
 <!---
