@@ -39,8 +39,9 @@
         <img src="https://skillicons.dev/icons?i=instagram">
     </a>
 </div>
-
-<p>Feel free to contact me anytime</p>
+<div align="center" style="margin-top: 5px">
+    <p>Feel free to contact me anytime</p>
+</div>
 
 
 
