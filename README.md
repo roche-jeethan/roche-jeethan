@@ -6,8 +6,6 @@
     
 <p align="justify">I'm a Computer Science Engineering undergrad with a keen interest in Data Science, currently studying at St. Joseph Engineering College, Mangalore. My journey in technology is fueled by my love in exploring new concepts and having a foundational setup in Mathematics, Statistical Concepts.<br><br>Beyond academics, I am the member in The Sceptix Club, our college's coding club, where I collaborate with like-minded peers to explore and create innovative projects. I believe in continuous learning and the power of technology to make a meaningful impact.<br><br>In addition to my technical pursuits, I have a creative side that's expressed through my small YouTube channel, which I started in 2020, but currently on hold.</p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=roche-jeethan&theme=catppuccin-mocha&border_radius=15&background=000000&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ## *Programming & Other Languages*
 <div align="center">
      <a href="https://skillicons.dev">
